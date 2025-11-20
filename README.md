@@ -78,7 +78,7 @@ Below is the **year-wise list of publications** from the MMWT Lab.
 
 ## 🧑‍🏫 Lab Head
 **Dr. Ashim Saha**  
-Assistant Professor, Department of Computer Science & Engineering  
+Associate Professor, Department of Computer Science & Engineering  
 National Institute of Technology Agartala
 
 ---
