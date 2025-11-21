@@ -63,7 +63,33 @@ Below is the **year-wise list of publications** from the MMWT Lab.
 ---
 
 ## **2023**
-*(To be updated)*
+
+### 📘 Journals
+
+| Sl. No. | Publication |
+|--------|-------------|
+| **1** | Sanjoy Chakraborty, Apu Kumar Saha, Absalom E. Ezugwu, Ratul Chakraborty, **Ashim Saha**. **Horizontal crossover and co-operative hunting-based Whale Optimization Algorithm for feature selection.** *Knowledge-Based Systems*, 282 (2023): 111108. [https://doi.org/10.1016/j.knosys.2023.111108](https://doi.org/10.1016/j.knosys.2023.111108) |
+| **2** | Anurag De, **Ashim Saha**, Praveen Kumar, Gautam Pal. **Fall detection approach based on combined two-channel body activity classification for innovative indoor environment.** *Journal of Ambient Intelligence and Humanized Computing*, 14, 11407–11418 (2023). [https://doi.org/10.1007/s12652-022-03714-2](https://doi.org/10.1007/s12652-022-03714-2) |
+
+---
+
+### 🎤 Conferences
+
+| Sl. No. | Publication |
+|--------|-------------|
+| **1** | Sandipan Bhowmick, **Ashim Saha**. **Enhancing the performance of kNN for glass identification dataset using inverse distance weight, ReliefF ranking and SMOTE.** *AIP Conference Proceedings*, Vol. 2754, No. 1, 2023. [https://doi.org/10.1063/5.0161083](https://doi.org/10.1063/5.0161083) |
+| **2** | Ankit Srivastava, Munesh Chandra, **Ashim Saha**, Sonam Saluja, Deepshikha Bhati. **Current Advances in Locality-Based and Feature-Based Transformers: A Review.** In: Tiwari, S., Trivedi, M.C., Kolhe, M.L., Singh, B.K. (eds) *Advances in Data and Information Sciences*. ICDIS 2023. Lecture Notes in Networks and Systems, vol 796. Springer, Singapore. [https://doi.org/10.1007/978-981-99-6906-7_28](https://doi.org/10.1007/978-981-99-6906-7_28) |
+| **3** | Priya Sarkar, **Ashim Saha**. **Review of Artificial Intelligence methods for detecting cancer in medical image processing.** *2023 Third International Conference on Artificial Intelligence and Smart Energy (ICAIS)*, Coimbatore, India, pp. 636–640, 2023. [https://doi.org/10.1109/ICAIS56108.2023.10073817](https://doi.org/10.1109/ICAIS56108.2023.10073817) |
+
+---
+
+### 📗 Book Chapters
+
+| Sl. No. | Publication |
+|--------|-------------|
+| **1** | Sandipan Bhowmick, **Ashim Saha**. **Dealing with Data Imbalance in Speaker Accent Recognition Using Fuzzy kNN and IQR.** In *Intelligent Systems and Smart Infrastructure*. CRC Press, 2023, pp. 207–216. |
+
+---
 
 ## **2022**
 *(To be updated)*
